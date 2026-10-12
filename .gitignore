@@ -2,6 +2,7 @@
 .vscode
 .idea
 .env
+.envrc
 bin/
 temp/
 error.log
